@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/X7x2vNh3/IMG-20250628-WA0076.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm Dikatoki</h1>
 <h3 align="center">A passionate developer & automation enthusiast</h3>
 
