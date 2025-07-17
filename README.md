@@ -15,13 +15,15 @@
 
 ### 💡 Bahasa Yang Saya Kuasai:
 
-| Bahasa      | Penguasaan |
-|-------------|------------|
-| JavaScript  | ![81%](https://progress-bar.dev/81/?title=&width=300&color=yellow) |
-| TypeScript  | ![24%](https://progress-bar.dev/24/?title=&width=300&color=blue) |
-| Python      | ![3%](https://progress-bar.dev/3/?title=&width=300&color=green) |
-| HTML        | ![3%](https://progress-bar.dev/3/?title=&width=300&color=orange) |
-| CSS         | ![0%](https://progress-bar.dev/0/?title=&width=300&color=red) |
+## 💡 Bahasa yang Saya Kuasai:
+
+| Bahasa      | Penguasaan     |
+|-------------|----------------|
+| JavaScript  | ██████████░░░░ (81%) |
+| TypeScript  | █████░░░░░░░░░ (24%) |
+| Python      | ███████░░░░░░░ (50%)  |
+| HTML        | █░░░░░░░░░░░░░ (3%)  |
+| CSS         | ░░░░░░░░░░░░░░ (0%)  |
 
 ---
 
