@@ -15,8 +15,6 @@
 
 ### 💡 Bahasa Yang Saya Kuasai:
 
-## 💡 Bahasa yang Saya Kuasai:
-
 | Bahasa      | Penguasaan     |
 |-------------|----------------|
 | JavaScript  | ██████████░░░░ (81%) |
