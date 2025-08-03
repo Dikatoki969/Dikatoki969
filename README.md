@@ -19,10 +19,12 @@
 | Bahasa      | Penguasaan |
 |-------------|------------|
 | JavaScript  |   (40%)    |
-| TypeScript  |   (24%)    |
+| TypeScript  |   (13%)    |
 | Python      |   (100%)   |
-| HTML        |   (3%)     |
-| CSS         |   (0%)     |
+| HTML        |   (20%)    |
+| CSS         |   (14%)    |
+| PHP         |   (3%)     |
+| CSS         |   (%)     |
 --------------|------------|
 
 ### ❤️ Bahasa Favorit:
@@ -42,10 +44,10 @@
 
 ### 🎯 Featured Projects
 - 🔹 [Gamma-wa-X](https://github.com/jihan-dev/Gamma-wa-X) – WhatsApp & Telegram bot with premium/OTP/Qris.
-- 🔹 [Telegram Remote Shell](https://github.com/jihan-dev/tg-shell-bot) – Kontrol server langsung dari Telegram.
+- 🔹 [Telegram Remote Shell](https://github.com/dikatoki969/tg-shell-bot) – Kontrol server langsung dari Telegram.
 
 ---
 
 ### 📫 Reach Me:
 📍 Indonesia, Jawa timur, Lamongan
-📬 dikatokidev@gmail.com
+📬 ahmadandhika969@gmail.com
