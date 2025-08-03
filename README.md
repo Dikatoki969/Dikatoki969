@@ -18,7 +18,7 @@
 
 | Bahasa      | Penguasaan |
 |-------------|------------|
-| JavaScript  |   (40%)    |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  |   (40%)    |
 | TypeScript  |   (13%)    |
 | Python      |   (100%)   |
 | HTML        |   (20%)    |
