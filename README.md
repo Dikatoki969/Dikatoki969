@@ -19,7 +19,7 @@
 | Bahasa      | Penguasaan |
 |-------------|------------|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  |   (40%)    |
-| TypeScript  |   (13%)    |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  |   (13%)    |
 | Python      |   (100%)   |
 | HTML        |   (20%)    |
 | CSS         |   (14%)    |
