@@ -20,7 +20,7 @@
 |-------------|------------|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  |   (40%)    |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  |   (13%)    |
-| Python      |   (100%)   |
+| ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     |   (100%)   |
 | HTML        |   (20%)    |
 | CSS         |   (14%)    |
 | PHP         |   (3%)     |
