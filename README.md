@@ -18,13 +18,13 @@
 
 | Bahasa      | Penguasaan |
 |-------------|------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  |   (40%)    |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  |   (13%)    |
-| ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     |   (100%)   |
-| ![HTML](https://img.shields.io/badge/HTML-3178C6?logo=HTML&logoColor=white)      |   (20%)    |
-| CSS         |   (14%)    |
-| PHP         |   (3%)     |
-| CSS         |   (%)     |
+| JavaScript  |   (40%)    |
+| TypeScript  |   (13%)    |
+| python     |   (100%)   |
+| HTML      |   (20%)    |
+| CSS       |   (14%)    |
+| PHP       |   (3%)     |
+|  c        |   (0%)     |
 --------------|------------|
 
 ### ❤️ Bahasa Favorit:
@@ -43,7 +43,7 @@
 ---
 
 ### 🎯 Featured Projects
-- 🔹 [Gamma-wa-X](https://github.com/jihan-dev/Gamma-wa-X) – WhatsApp & Telegram bot with premium/OTP/Qris.
+- 🔹 [Gamma-wa-X](https://github.com/Dikatoki969/Gamma-bot) – WhatsApp & Telegram bot with premium/OTP/Qris.
 - 🔹 [Telegram Remote Shell](https://github.com/dikatoki969/tg-shell-bot) – Kontrol server langsung dari Telegram.
 
 ---
