@@ -14,18 +14,6 @@
 
 ---
 
-### 💡 Bahasa Yang Saya Kuasai:
-
-| Bahasa      | Penguasaan |
-|-------------|------------|
-| JavaScript  |   (40%)    |
-| TypeScript  |   (13%)    |
-| python     |   (100%)   |
-| HTML      |   (20%)    |
-| CSS       |   (14%)    |
-| PHP       |   (3%)     |
-|  c        |   (0%)     |
---------------|------------|
 
 ### ❤️ Bahasa Favorit:
 
