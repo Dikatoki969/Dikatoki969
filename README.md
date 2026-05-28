@@ -1,111 +1,75 @@
-
 <div align="center">
-
-# Ahmad Andhika
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Web+Developer+Pemula;UI+Design+Enthusiast;Minecraft+%26+Technology+Lover" />
-
-<br>
-
-<img src="https://i.pinimg.com/originals/9f/5b/2e/9f5b2e4fcf76db0bdfeddb0a0c8d53bb.jpg" width="220" style="border-radius:20px;">
-
+  <img src="https://github.com/Dikatoki969.png" width="150" style="border-radius:50%; border: 3px solid #ff69b4;" />
+  <h1>🌸 Dikatoki969 🌸</h1>
+  <p><i>"Bukan programmer profesional, cuma manusia biasa yang jatuh cinta pada kode, anime, dan tiga istri 2D."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Dikatoki969&label=Pengunjung&color=ff69b4&style=flat" alt="counter" />
 </div>
 
 ---
 
-# 👋 Tentang Saya
-
-Halo, saya **Ahmad Andhika**.  
-Saya suka membuat website modern, panel hosting, desain UI, dan eksplor teknologi baru.
-
-Saat ini saya fokus belajar:
-- 🌐 Front-End Website
-- ⚙️ Backend NodeJS
-- 🎨 UI/UX Design
-- ☁️ Hosting & VPS
-- 🤖 Automation Bot
-
-Saya bukan programmer profesional, masih belajar dan terus berkembang sedikit demi sedikit 🚀
+### 💻 Bahasa Favorit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,vscode,linux" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎮 Hobi
-
-- 🎧 Mendengarkan musik
-- 🎮 Main game
-- 💻 Ngoding random project
-- 🌌 Custom tampilan website
-- ☕ Begadang sambil coding
-
----
-
-# ❤️ Favorite Characters
-
-<div align="center">
-
+### 📌 Repositori Unggulan
 <table>
-<tr>
-
-<td align="center">
-<img src="https://i.pinimg.com/736x/62/53/7f/62537fddac82a89f1dc4f1e2d52a2cb7.jpg" width="180"><br>
-<b>Reze</b>
-</td>
-
-<td align="center">
-<img src="https://i.pinimg.com/736x/45/65/1e/45651e2c5f7cb5d87f3dce5d54d7d6a1.jpg" width="180"><br>
-<b>Chen Mulin</b>
-</td>
-
-<td align="center">
-<img src="https://i.pinimg.com/736x/8d/e0/86/8de0868fd844d5d8d9c728ac8d4cfbb2.jpg" width="180"><br>
-<b>Shinobu Kocho 🦋</b>
-</td>
-
-</tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dikatoki969/MyWaifuBot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikatoki969&repo=MyWaifuBot&theme=tokyonight" />
+      </a>
+      <br>🤖 Bot Discord pengelola harem waifu
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dikatoki969/dotfiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dikatoki969&repo=dotfiles&theme=tokyonight" />
+      </a>
+      <br>⚙️ Setup terminal & editor kesayangan
+    </td>
+  </tr>
 </table>
 
+---
+
+### 🎨 Hobi
+- 📺 Nonton anime (romance, action, isekai, apa aja yang ada waifunya)
+- 📖 Baca manga & light novel sampai begadang
+- ⌨️ Ngoding proyek random yang muncul tengah malam
+- 🎮 Gaming (Genshin Impact, Honkai: Star Rail, game indie pixel art)
+- 🎧 Dengerin J‑pop, lo‑fi, dan soundtrack anime sambil ngoding
+
+---
+
+### ❤️ My Beloved Wives
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://static.wikia.nocookie.net/chainsaw-man/images/2/2a/Reze_anime.png/revision/latest/scale-to-width-down/200" width="200" alt="Reze"><br><b>💣 Reze</b></td>
+      <td align="center"><img src="https://placehold.co/200x300?text=Chen+Mulin&font=roboto&bg=fbcfe8" width="200" alt="Chen Mulin"><br><b>🌸 Chen Mulin</b></td>
+      <td align="center"><img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5e/Shinobu_Kocho_anime.png/revision/latest/scale-to-width-down/200" width="200" alt="Shinobu Kocho"><br><b>🦋 Shinobu Kocho</b></td>
+    </tr>
+  </table>
+  <p><i>“Satu cinta terbagi tiga, tak pernah ada bug yang bertahan.”</i></p>
 </div>
 
 ---
 
-# 🌐 Social Media
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
-
-</div>
+### 📝 Tentang Saya
+> Halo! Saya Dikatoki969, penghuni dunia yang gemar mengutak-atik kode sambil ditemani lagu anime.  
+> Saya percaya bahwa kode terbaik lahir dari hati yang tenang—dan hati saya tenang karena ada Reze, Chen Mulin, dan Shinobu Kocho di sisi saya.  
+> Repositori di sini adalah taman bermain pribadi, tempat saya mengeksplorasi ide, belajar hal baru, dan kadang membangun alat bantu untuk sesama wibu.  
+> **Tidak ada gelar “programmer profesional” di sini, hanya seseorang yang menikmati proses belajar dan berbagi.**
 
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikatoki969&show_icons=true&theme=tokyonight&hide_title=true" />
+</div>
 
-### ✨ "Keep learning, keep building."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-
+<div align="center">
+  <i>“Pull request yang tidak disertai gambar waifu akan ditolak dengan hormat.”</i> 😤
 </div>
