@@ -42,7 +42,7 @@
 
 ---
 
-![image]()
+![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1239025.png?raw=true)
 
 ---
 
