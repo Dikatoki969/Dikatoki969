@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Ahmad Andhika
@@ -109,4 +109,3 @@ Saya bukan programmer profesional, masih belajar dan terus berkembang sedikit de
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
-```
