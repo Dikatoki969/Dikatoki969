@@ -2,10 +2,6 @@
   🌸 🌸 🌸 🌸 🌸<br>
   <img src="https://github.com/Dikatoki969.png" width="150" style="border-radius:50%;" /><br>
   🌸 🌸 🌸 🌸 🌸
-  <h1>Dikatoki969</h1>
-</div>
-<div align="center">
-
   <h1>🌸 Dikatoki969 🌸</h1>
   <img src="https://komarev.com/ghpvc/?username=Dikatoki969&label=Pengunjung&color=ff69b4&style=flat" alt="counter" />
 </div>
