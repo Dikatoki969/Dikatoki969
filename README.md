@@ -39,5 +39,5 @@
 </div>
 
 <div align="center">
-  <i>“Pull request yang tidak disertai gambar waifu akan ditolak dengan hormat.”</i> 😤
+  <i>“Peduli Apa Gweh.”</i>
 </div>
