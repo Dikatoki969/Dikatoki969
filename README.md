@@ -38,6 +38,14 @@
 
 ---
 
+![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1042578.png?raw=true)
+
+---
+
+![image]()
+
+---
+
 <div align="center">
   <i>“Peduli Apa Gweh.”</i>
 </div>
