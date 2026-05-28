@@ -3,9 +3,6 @@
   <h1>🌸 Dikatoki969 🌸</h1>
   <img src="https://komarev.com/ghpvc/?username=Dikatoki969&label=Pengunjung&color=ff69b4&style=flat" alt="counter" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikatoki969&show_icons=true" />
-</div>
 
 ---
 
