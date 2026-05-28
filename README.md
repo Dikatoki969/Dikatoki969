@@ -1,11 +1,5 @@
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center" style="border: 3px solid #ff69b4; border-radius: 50%; padding: 5px;">
-      <img src="https://github.com/Dikatoki969.png" width="150" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Dikatoki969.png" width="150" style="border-radius:50%;" border="3" />
   <h1>🌸 Dikatoki969 🌸</h1>
   <img src="https://komarev.com/ghpvc/?username=Dikatoki969&label=Pengunjung&color=ff69b4&style=flat" alt="counter" />
 </div>
