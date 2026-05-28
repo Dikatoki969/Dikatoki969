@@ -1,4 +1,9 @@
-
+<div align="center">
+  🌸 🌸 🌸 🌸 🌸<br>
+  <img src="https://github.com/Dikatoki969.png" width="150" style="border-radius:50%;" /><br>
+  🌸 🌸 🌸 🌸 🌸
+  <h1>Dikatoki969</h1>
+</div>
 <div align="center">
 
   <h1>🌸 Dikatoki969 🌸</h1>
