@@ -1,5 +1,37 @@
 <div align="center">
-<img src="https://github.com/Dikatoki969.png" width="150" style="border-radius:50%;" border="3" />
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+      <clipPath id="circleClip">
+        <circle cx="100" cy="100" r="85" />
+      </clipPath>
+      <!-- Bunga sakura kecil -->
+      <g id="sakura">
+        <circle cx="0" cy="0" r="4" fill="#ffb7c5" opacity="0.8"/>
+        <circle cx="0" cy="0" r="2" fill="#ff91a4"/>
+      </g>
+    </defs>
+    
+    <!-- Border pink lembut -->
+    <circle cx="100" cy="100" r="92" fill="#ffb7c5" />
+    <circle cx="100" cy="100" r="88" fill="#ff91a4" />
+    
+    <!-- Taburan bunga sakura di border -->
+    <use href="#sakura" x="15" y="100" />
+    <use href="#sakura" x="30" y="40" />
+    <use href="#sakura" x="60" y="15" />
+    <use href="#sakura" x="100" y="12" />
+    <use href="#sakura" x="140" y="15" />
+    <use href="#sakura" x="170" y="40" />
+    <use href="#sakura" x="185" y="100" />
+    <use href="#sakura" x="170" y="160" />
+    <use href="#sakura" x="140" y="185" />
+    <use href="#sakura" x="100" y="188" />
+    <use href="#sakura" x="60" y="185" />
+    <use href="#sakura" x="30" y="160" />
+    
+    <!-- Foto profil -->
+    <image x="15" y="15" width="170" height="170" href="https://github.com/Dikatoki969.png" clip-path="url(#circleClip)" />
+  </svg>
   <h1>🌸 Dikatoki969 🌸</h1>
   <img src="https://komarev.com/ghpvc/?username=Dikatoki969&label=Pengunjung&color=ff69b4&style=flat" alt="counter" />
 </div>
