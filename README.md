@@ -1,37 +1,3 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-    </tr>
-    <tr>
-      <td>🌸</td>
-      <td colspan="3" align="center">
-        <svg width="160" height="160">
-          <defs>
-            <clipPath id="clip">
-              <circle cx="80" cy="80" r="75" />
-            </clipPath>
-          </defs>
-          <circle cx="80" cy="80" r="78" fill="#ffb7c5" />
-          <image x="5" y="5" width="150" height="150" href="https://github.com/Dikatoki969.png" clip-path="url(#clip)" />
-        </svg>
-      </td>
-      <td>🌸</td>
-    </tr>
-    <tr>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-      <td>🌸</td>
-    </tr>
-  </table>
-  <h1>🌸 Dikatoki969 🌸</h1>
-</div>
 
 <div align="center">
 
