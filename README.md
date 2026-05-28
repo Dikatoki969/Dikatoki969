@@ -18,10 +18,11 @@
 ---
 
 ### 🎨 Hobi
-- 📺 Nonton anime (romance, action, dark, gore)
-- 📖 Baca manga & light novel sampai begadang
-- 🎮 Gaming (Genshin Impact, Honkai: Star Rail, game indie pixel art)
-- 🎧 Dengerin J‑pop, lo‑fi, dan soundtrack anime sambil ngoding
+- 🎣 Mancing
+- 📺 Nonton anime
+- 📖 Baca manga & manhwa sampai begadang
+- 🎮 Main game (Valorant, GTA v, Minecraft)
+- 🎧 Dengerin J‑pop, Reggae, dan soundtrack anime
 
 ---
 
