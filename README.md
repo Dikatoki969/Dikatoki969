@@ -30,7 +30,7 @@
 > Kalau dapet ide baru, kasih ke claude trus minta bikinin apa yg kita mau.
  
 ### 🎧 Playlist Saya
-[![Spotify](https://img.shields.io/badge/🎶My Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1DghLGpXN00i6Os5sRMkNI?si=233aa1501fbf4a32)
+![Spotify]https://open.spotify.com/playlist/1DghLGpXN00i6Os5sRMkNI?si=233aa1501fbf4a32)
 
 ---
 
