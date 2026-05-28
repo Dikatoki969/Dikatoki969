@@ -30,7 +30,7 @@
 > Kalau dapet ide baru, kasih ke claude trus minta bikinin apa yg kita mau.
  
 ### 🎧 Playlist Saya
-![Spotify](https://open.spotify.com/playlist/1DghLGpXN00i6Os5sRMkNI?si=233aa1501fbf4a32)
+[![Spotify Playlist](https://github.com/Dikatoki969/Dikatoki969/blob/main/Spotify_Badge_(large).png?raw=true)](https://open.spotify.com/playlist/1DghLGpXN00i6Os5sRMkNI?si=54dde277ef9d4a83)
 
 ---
 
