@@ -43,19 +43,29 @@
 <h2>KOLEKSI WAIFU</h2>
 
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1042578.png?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1239025.png?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(1).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(2).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(3).jpg?raw=true)
 ---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(4).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(5).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(6).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(7).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(8).jpg?raw=true)
 ---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(9).jpg?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(1).png?raw=true)
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(2).png?raw=true)
 ---
 
