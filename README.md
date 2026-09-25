@@ -46,7 +46,7 @@
 ---
 
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1239025.png?raw=true)
-![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1+(1).jpg?raw=true)
+![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(1).jpg?raw=true)
 
 ---
 
