@@ -40,7 +40,8 @@
 [![Spotify Playlist](https://github.com/Dikatoki969/Dikatoki969/blob/main/Spotify_Badge_(large).png?raw=true)](https://open.spotify.com/playlist/1DghLGpXN00i6Os5sRMkNI?si=54dde277ef9d4a83)
 
 ---
-
+<h2>KOLEKSI WAIFU</h2>
+---
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1042578.png?raw=true)
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1239025.png?raw=true)
 ![image](https://github.com/Dikatoki969/Dikatoki969/blob/main/1%20(1).jpg?raw=true)
